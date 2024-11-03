@@ -89,7 +89,7 @@
       ]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "Endpoints",
       "pages": [
         "go-loop-sdk-api/endpoint/login",
         "go-loop-sdk-api/endpoint/reservations",
