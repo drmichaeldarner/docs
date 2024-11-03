@@ -93,7 +93,7 @@
       "pages": [
         "go-loop-sdk-api/endpoint/login",
         "go-loop-sdk-api/endpoint/reservations",
-        "go-loop-sdk-api/endpoint/stats"
+        "go-loop-sdk-api/endpoint/stats",
         "go-loop-sdk-api/endpoint/vakey"
       ]
     }
