@@ -29,7 +29,12 @@
     {
       "name": "api-reference",
       "url": "api-reference"
-    }
+    },
+    {
+      "name": "go-loop-sdk-api",
+      "url": "go-loop-sdk-api"
+    },
+    
   ],
   "anchors": [
     {
