@@ -27,7 +27,7 @@
   },
   "tabs": [
     {
-      "name": "API Reference",
+      "name": "api-reference",
       "url": "api-reference"
     }
   ],
@@ -69,17 +69,17 @@
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "Go Loop Documentation",
       "pages": [
-        "api-reference/introduction"
+        "go-loop-sdk-api/introduction"
       ]
     },
     {
       "group": "Endpoint Examples",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "go-loop-sdk-api/endpoint/get",
+        "go-loop-sdk-api/endpoint/create",
+        "go-loop-sdk-api/endpoint/delete"
       ]
     }
   ],
