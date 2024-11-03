@@ -36,6 +36,11 @@
     }
     ,
     {
+      "name": "go-loop-cloud-api",
+      "url": "go-loop-cloud-api"
+    }
+    ,
+    {
       "name": "ov-loop-wallet-api",
       "url": "ov-loop-wallet-api"
     }
@@ -86,9 +91,10 @@
     {
       "group": "Endpoint Examples",
       "pages": [
-        "go-loop-sdk-api/endpoint/get",
-        "go-loop-sdk-api/endpoint/create",
-        "go-loop-sdk-api/endpoint/delete"
+        "go-loop-sdk-api/endpoint/login",
+        "go-loop-sdk-api/endpoint/reservations",
+        "go-loop-sdk-api/endpoint/stats"
+        "go-loop-sdk-api/endpoint/vakey"
       ]
     }
   ],
