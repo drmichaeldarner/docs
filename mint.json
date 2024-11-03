@@ -27,8 +27,8 @@
   },
   "tabs": [
     {
-      "name": "API Reference",
-      "url": "api-reference"
+      "name": "Go Loop Api Reference",
+      "url": "go-loop-sdk-api"
     }
   ],
   "anchors": [
@@ -69,9 +69,9 @@
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "Go Loop Documentation",
       "pages": [
-        "api-reference/introduction"
+        "go-loop-sdk-api/introduction"
       ]
     },
     {
